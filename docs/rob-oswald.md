@@ -7,3 +7,5 @@
 **Food:** Avocados
 
 **Hobby:** Biking
+
+**Color:** Blue
